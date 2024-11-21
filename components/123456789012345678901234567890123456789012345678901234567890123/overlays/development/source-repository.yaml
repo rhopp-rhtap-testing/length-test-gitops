@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: 123456789012345678901234567890123456789012345678901234567890123-repository
+spec:
+  url: https://github.com/rhopp-rhtap-testing/length test
